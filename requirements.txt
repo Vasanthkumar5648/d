@@ -1,6 +1,6 @@
-torch
+streamlit
 opencv-python
+torch
 matplotlib
 seaborn
-streamlit
 pandas
