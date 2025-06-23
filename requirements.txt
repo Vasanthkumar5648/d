@@ -1,6 +1,5 @@
 streamlit
 opencv-python
-libgl1
 torch
 matplotlib
 seaborn
